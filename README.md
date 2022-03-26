@@ -27,3 +27,5 @@ Subir proyecto a git
 - git remote add nombre-proyecto https://github.com/CesarOros/test.git // primer vez
 - git push --set-upstream demo-react master // primer vez
 - git push 
+
+- Comentario
